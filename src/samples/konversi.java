@@ -1,3 +1,4 @@
+package samples;
 import java.util.Scanner;
 
 public class konversi {
