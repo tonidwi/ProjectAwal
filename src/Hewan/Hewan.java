@@ -14,6 +14,5 @@ public class Hewan {
     // method umum
     void makan() {
         System.out.println("sedang makan ....");
-        System.out.println("ini adalah cllass hewan ");
     }
 }
