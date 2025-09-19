@@ -13,5 +13,6 @@ public class Main {
         Anjing a = new Anjing("julia");
         a.makan();
         a.suara();
+        a.makan();
     }
 }
