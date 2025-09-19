@@ -1,15 +1,19 @@
 package Hewan;
+
 //membuat kelas hewan
 public class Hewan {
 
-    //memberikan atribut 
+    // memberikan atribut
     String nama;
-//membuat kotrustor untuk isi nama
-    Hewan(String nama){
+
+    // membuat kotrustor untuk isi nama
+    Hewan(String nama) {
         this.nama = nama;
     }
-//method umum
-    void makan(){
+
+    // method umum
+    void makan() {
         System.out.println("sedang makan ....");
+        System.out.println("ini adalah cllass hewan ");
     }
 }

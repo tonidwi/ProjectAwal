@@ -8,11 +8,9 @@ public class Main {
         Kucing k = new Kucing("kitty");
         k.makan();
         k.suara();
-        k.makan();
 
         Anjing a = new Anjing("julia");
         a.makan();
         a.suara();
-        a.makan();
     }
 }
